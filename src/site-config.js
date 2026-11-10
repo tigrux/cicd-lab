@@ -3,6 +3,6 @@
 module.exports = {
   title: 'Cloud Apps Status Page',
   owner: 'Sandino Flores',          // Part C: put your name here
-  version: '1.0.0',            // Part E: increase this with every change you deploy
+  version: '1.0.1',            // Part E: increase this with every change you deploy
   backgroundColor: '#1e90ff'   // Part E: change this to a blue colour, e.g. '#1e90ff'
 };
